@@ -10,7 +10,7 @@
 - [API Endpoints](#api-endpoints)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 The MERN Blog Application is a full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to register, log in, create blog posts, view posts, and edit their profile information. This application demonstrates user authentication, CRUD operations, and a responsive front-end.
